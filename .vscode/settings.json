@@ -1,0 +1,11 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "debug.terminal.clearBeforeReusing": true,
+    "C_Cpp.legacyCompilerArgsBehavior": true,
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "editor.fontSize": 16,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
